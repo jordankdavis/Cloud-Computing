@@ -1,3 +1,11 @@
+html {
+  background: url('http://farm2.staticflickr.com/1100/1471214453_f7677b7816_b.jpg') no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .profile h1 {
   Font size: 16px;
   text-transform: uppercase;
@@ -16,10 +24,3 @@
   border-radius: 50px;
 }
 
-html {
-  background: url('https://www.flickr.com/photos/gerardo-carinao/17956424850/in/pool-backpacking/') no-repeat center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}

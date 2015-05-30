@@ -14,6 +14,6 @@ get '/italian' do
   "Ciao!"
 end
 get '/read_more' do
-  "Lots and lots of gory details about ME ME ME!!!"
+  erb :read_more
 end
 
