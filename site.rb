@@ -7,6 +7,9 @@ end
 get '/italian' do
   "Ciao!"
 end
+get '/read_more' do
+  "Lots and lots of gory details about ME ME ME!!!"
+end
 #get '/jordan' do
 #  <h1> Nursery Rymes </h>
 #  <p>Mary had a little lamb whose fleece was white as snow</p>
