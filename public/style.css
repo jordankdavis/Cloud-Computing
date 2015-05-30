@@ -1,6 +1,17 @@
+.profile h1 {
+  Font size: 16px;
+  text-transform: uppercase;
+}
+
 .profile {
   background: lightgray;
   padding: 10px;
   marging: 10px;
   text-align: center;
+}
+
+.profile img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
 }
