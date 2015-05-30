@@ -7,6 +7,7 @@ end
 get '/italian' do
   "Ciao!"
 end
-get '/jordan' do
-  "Mary had a little lamb whose fleece was white as snow"
-end
+#get '/jordan' do
+#  <h1> Nursery Rymes </h>
+#  <p>Mary had a little lamb whose fleece was white as snow</p>
+#end
